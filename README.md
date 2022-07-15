@@ -22,19 +22,22 @@
 - X-O game - TicTacToe (2018)
 
 # 🎓 University projects
+ Machine Learning
+ - [YOLOv5 with Custome data] (https://github.com/7MohamedAshraf10/YOLOv5-Train-Custom-Dataset)
+ - [Hand Writing text recognition] (https://github.com/7MohamedAshraf10/Handwritten-Text-Recognition)
+ 
 
- Computer architecture
-- Assembly sum and average calculator
-- Operating Systems
+ Operating Systems
 - CPU scheduling simulator
 - Router Simulation
-- 
+ 
  Software Engineering
-- Ride sharing app (Uber backend clone)
+- Command Line Interpreter
 - Playgrounds renting system
-- 
+
  Networking
-- Chat room through TCP network, UDP network
-- SMTP Emulator
+- Chat room through TCP network
+- Chat room through UDP network
+
 <!--
 **7MohamedAshraf10/7MohamedAshraf10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
