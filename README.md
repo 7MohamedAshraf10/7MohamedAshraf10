@@ -5,10 +5,11 @@ PyTorch
 Computer Vision
 DevOps
 Blockchain
-👨🏻‍💻 Projects I made
+
+#👨🏻‍💻 Projects I made
 
 
-🗝 Legacy projects
+#🗝 Legacy projects
 Hand Tracking Volume Control (2022)
 Hand Tracking Fingers Count (2022)
 Fashin-MNIST classifier (2022)
