@@ -11,15 +11,15 @@
 
 
 # 🗝 Legacy projects
-- Hand Tracking Volume Control (2022)
-- Hand Tracking Fingers Count (2022)
-- Fashin-MNIST classifier (2022)
-- Employee Payroll System (2021)
-- Hospital Management System (2020)
+- [Hand Tracking Volume Control (2022)] (https://github.com/7MohamedAshraf10/HandTrackingProject)
+- [Hand Tracking Fingers Count (2022)] (https://github.com/7MohamedAshraf10/HandTrackingProject) 
+- [Fashin-MNIST classifier (2022)] (https://github.com/7MohamedAshraf10/Fashion_MNIST)
+- [Hospital Management System (2020)] (https://github.com/7MohamedAshraf10/HospitalManagementSystem)
+- [Bank System (2019)] (https://github.com/7MohamedAshraf10/Java_miniBankSystem)
 - [Snake Game (2020)] (https://github.com/7MohamedAshraf10/Java_SnakeGame)
-- Breaker Ball - Breakout clone with OpenGL (2019)
-- Calculator (2018)
-- X-O game - TicTacToe (2018)
+- [Calculator (2019)] (https://github.com/7MohamedAshraf10/Java_Calculator_GUISwing)
+
+
 
 # 🎓 University projects
  Machine Learning
@@ -28,12 +28,13 @@
  
 
  Operating Systems
-- CPU scheduling simulator
-- Router Simulation
- 
+- [CPU scheduling simulator] (https://github.com/7MohamedAshraf10/CPU-scheduling-simulator-) 
+- [Router Simulation] (https://github.com/7MohamedAshraf10/Router-Simulation)
+  
  Software Engineering
-- Command Line Interpreter
-- Playgrounds renting system
+- [Command Line Interpreter] (https://github.com/7MohamedAshraf10/CommandLIneInterpreter)
+- [Playgrounds renting system] (https://github.com/7MohamedAshraf10/Java_miniPlaygroundSystem)
+- 
 
  Networking
 - Chat room through TCP network
