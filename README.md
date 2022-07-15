@@ -38,8 +38,9 @@ Hey, I'm Mohamed Ashraf. I'm currently pursuing a bachelor degree in computer sc
 - 
 
  Networking
-- Chat room through TCP network
-- Chat room through UDP network
+- [Chat room through TCP network](https://github.com/7MohamedAshraf10/Java_TCP_Chat)
+- [TCP_Reordering](https://github.com/7MohamedAshraf10/Java_TCP_Reordering)
+- [Chat room through UDP network](https://github.com/7MohamedAshraf10/Java_UDP_Chat)
 
 <!--
 **7MohamedAshraf10/7MohamedAshraf10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
