@@ -23,15 +23,17 @@
 
 # 🎓 University projects
 
-Computer architecture
+ Computer architecture
 - Assembly sum and average calculator
 - Operating Systems
 - CPU scheduling simulator
 - Router Simulation
-Software Engineering
+- 
+ Software Engineering
 - Ride sharing app (Uber backend clone)
 - Playgrounds renting system
-Networking
+- 
+ Networking
 - Chat room through TCP network, UDP network
 - SMTP Emulator
 <!--
