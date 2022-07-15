@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Mohamed Ashraf
 
+Hey, I'm Mohamed Ashraf. I'm currently pursuing a bachelor degree in computer science at [Cairo University] (https://cu.edu.eg/Home). A passionate student who wants to explore new grounds and ideas.
 
 # I’m currently interested/learning in
 - PyTorch
