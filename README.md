@@ -3,14 +3,39 @@
 <!--
 **7MohamedAshraf10/7MohamedAshraf10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ I’m currently interested/learning in
+PyTorch
+Computer Vision
+DevOps
+Blockchain
+👨🏻‍💻 Projects I made
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🗝 Legacy projects
+Hand Tracking Volume Control (2022)
+Hand Tracking Fingers Count (2022)
+Fashin-MNIST classifier (2022)
+Employee Payroll System (2021)
+Hospital Management System (2020)
+[Snake Game (2020)] (https://github.com/7MohamedAshraf10/Java_SnakeGame)
+Breaker Ball - Breakout clone with OpenGL (2019)
+Calculator (2018)
+X-O game - TicTacToe (2018)
+
+🎓 University projects
+Compression
+LZ77 compression algorithm
+LZ78 compression algorithm
+LZW (Lempel–Ziv–Welch) compression algorithm
+Huffman compression algorithm
+Vector quantization
+Computer architecture
+Assembly sum and average calculator
+Operating Systems
+CPU scheduling simulator
+Software Engineering
+Ride sharing app (Uber backend clone)
+Playgrounds renting system
+Networking
+Chat room through TCP network
+SMTP Emulator
