@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Mohamed Ashraf
 
-I’m currently interested/learning in
-PyTorch
-Computer Vision
-DevOps
-Blockchain
+
+#I’m currently interested/learning in
+-PyTorch
+-Computer Vision
+-DevOps
+-Blockchain
 
 #👨🏻‍💻 Projects I made
 
@@ -37,8 +38,5 @@ Playgrounds renting system
 Networking
 Chat room through TCP network
 SMTP Emulator
-
-
 <!--
 **7MohamedAshraf10/7MohamedAshraf10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
