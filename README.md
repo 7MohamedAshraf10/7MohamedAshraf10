@@ -7,6 +7,8 @@ Hey, I'm Mohamed Ashraf. I'm currently pursuing a bachelor degree in computer sc
 - Computer Vision
 - DevOps
 - Blockchain
+- Java
+- Spring framework
 
 ## 👨🏻‍💻 Projects I made
 
@@ -35,7 +37,7 @@ Hey, I'm Mohamed Ashraf. I'm currently pursuing a bachelor degree in computer sc
  Software Engineering
 - [Command Line Interpreter](https://github.com/7MohamedAshraf10/CommandLIneInterpreter)
 - [Playgrounds renting system](https://github.com/7MohamedAshraf10/Java_miniPlaygroundSystem)
-- 
+
 
  Networking
 - [Chat room through TCP network](https://github.com/7MohamedAshraf10/Java_TCP_Chat)
