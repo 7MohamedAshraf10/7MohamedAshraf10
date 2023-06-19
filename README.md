@@ -15,9 +15,10 @@ Hey, I'm Mohamed Ashraf. I'm currently pursuing a bachelor degree in computer sc
 
 
 # 🗝 Legacy projects
+- [InvertedIndex](https://github.com/7MohamedAshraf10/InvertedIndex)
 - [Facial_Expression_Recognation](https://github.com/7MohamedAshraf10/Facial_Expression_Recognation)
-- [VAE_Face_Generation](https://github.com/7MohamedAshraf10/VAE_Face_Generation/tree/master)
-- [Object Localization](https://github.com/7MohamedAshraf10/Object_Localization_with_Tensorflow/tree/master)
+- [VAE_Face_Generation](https://github.com/7MohamedAshraf10/VAE_Face_Generation)
+- [Object Localization](https://github.com/7MohamedAshraf10/Object_Localization_with_Tensorflow)
 - [Face_Detection](https://github.com/7MohamedAshraf10/Face_Detection)
 - [CIFAR10-CNN](https://github.com/7MohamedAshraf10/CIFAR10_CNN)
 - [Hand Tracking Volume Control (2022)](https://github.com/7MohamedAshraf10/HandTrackingProject)
