@@ -15,6 +15,7 @@ Hey, I'm Mohamed Ashraf. I'm currently pursuing a bachelor degree in computer sc
 
 
 # 🗝 Legacy projects
+- [Facial_Expression_Recognation](https://github.com/7MohamedAshraf10/Facial_Expression_Recognation)
 - [VAE_Face_Generation](https://github.com/7MohamedAshraf10/VAE_Face_Generation/tree/master)
 - [Object Localization](https://github.com/7MohamedAshraf10/Object_Localization_with_Tensorflow/tree/master)
 - [Face_Detection](https://github.com/7MohamedAshraf10/Face_Detection)
