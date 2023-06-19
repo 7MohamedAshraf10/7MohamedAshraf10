@@ -15,6 +15,7 @@ Hey, I'm Mohamed Ashraf. I'm currently pursuing a bachelor degree in computer sc
 
 
 # 🗝 Legacy projects
+- [Segmentation_with_U_Net](https://github.com/7MohamedAshraf10/Segmentation_with_U_Net)
 - [Decision_Tree_From_Scratch](https://github.com/7MohamedAshraf10/Decision_Tree_From_Scratch)
 - [InvertedIndex](https://github.com/7MohamedAshraf10/InvertedIndex)
 - [Facial_Expression_Recognation](https://github.com/7MohamedAshraf10/Facial_Expression_Recognation)
