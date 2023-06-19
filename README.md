@@ -15,6 +15,7 @@ Hey, I'm Mohamed Ashraf. I'm currently pursuing a bachelor degree in computer sc
 
 
 # 🗝 Legacy projects
+- [Face_Detection][https://github.com/7MohamedAshraf10/Face_Detection]
 - [CIFAR10-CNN](https://github.com/7MohamedAshraf10/CIFAR10_CNN)
 - [Hand Tracking Volume Control (2022)](https://github.com/7MohamedAshraf10/HandTrackingProject)
 - [Hand Tracking Fingers Count (2022)](https://github.com/7MohamedAshraf10/HandTrackingProject) 
