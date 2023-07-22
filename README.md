@@ -1,16 +1,16 @@
 ### Hi there 👋 I'm Mohamed Ashraf
 
-Hey, I'm Mohamed Ashraf. I'm currently pursuing a bachelor degree in computer science at [Cairo University](https://cu.edu.eg/Home). A passionate student who wants to explore new grounds and ideas.
+Hey, I'm Mohamed Ashraf. I'm currently pursuing a bachelor's degree in computer science at [Cairo University](https://cu.edu.eg/Home). A passionate student who wants to explore new grounds and ideas.
 
 # I’m currently interested/learning in
 - Tensorflow
-- PyTorch
 - Computer Vision
+- PyTorch
 - DevOps
-- Blockchain
 - Java
-- Spring framework
+- MySQL
 
+  
 ## 👨🏻‍💻 Projects I made
 
 
@@ -25,7 +25,7 @@ Hey, I'm Mohamed Ashraf. I'm currently pursuing a bachelor degree in computer sc
 - [CIFAR10-CNN](https://github.com/7MohamedAshraf10/CIFAR10_CNN)
 - [Hand Tracking Volume Control (2022)](https://github.com/7MohamedAshraf10/HandTrackingProject)
 - [Hand Tracking Fingers Count (2022)](https://github.com/7MohamedAshraf10/HandTrackingProject) 
-- [Fashin-MNIST classifier (2022)](https://github.com/7MohamedAshraf10/Fashion_MNIST)
+- [Fashion-MNIST classifier (2022)](https://github.com/7MohamedAshraf10/Fashion_MNIST)
 - [Hospital Management System (2020)](https://github.com/7MohamedAshraf10/HospitalManagementSystem)
 - [Bank System (2019)](https://github.com/7MohamedAshraf10/Java_miniBankSystem)
 - [Snake Game (2020)](https://github.com/7MohamedAshraf10/Java_SnakeGame)
@@ -34,9 +34,19 @@ Hey, I'm Mohamed Ashraf. I'm currently pursuing a bachelor degree in computer sc
 
 
 # 🎓 University projects
- Machine Learning
+ Machine Learning & Deep Learning
  - [YOLOv5 with Custome data](https://github.com/7MohamedAshraf10/YOLOv5-Train-Custom-Dataset)
  - [Hand Writing text recognition](https://github.com/7MohamedAshraf10/Handwritten-Text-Recognition)
+ - [Segmentation_with_U_Net](https://github.com/7MohamedAshraf10/Segmentation_with_U_Net)
+ - [Decision_Tree_From_Scratch](https://github.com/7MohamedAshraf10/Decision_Tree_From_Scratch)
+ - [Facial_Expression_Recognation](https://github.com/7MohamedAshraf10/Facial_Expression_Recognation)
+ - [VAE_Face_Generation](https://github.com/7MohamedAshraf10/VAE_Face_Generation)
+ - [Object Localization](https://github.com/7MohamedAshraf10/Object_Localization_with_Tensorflow)
+ - [Face_Detection](https://github.com/7MohamedAshraf10/Face_Detection)
+ - [CIFAR10-CNN](https://github.com/7MohamedAshraf10/CIFAR10_CNN)
+ - [Hand Tracking Volume Control (2022)](https://github.com/7MohamedAshraf10/HandTrackingProject)
+ - [Hand Tracking Fingers Count (2022)](https://github.com/7MohamedAshraf10/HandTrackingProject) 
+ - [Fashion-MNIST classifier (2022)](https://github.com/7MohamedAshraf10/Fashion_MNIST)
  
 
  Operating Systems
