@@ -35,17 +35,9 @@ Hey, I'm Mohamed Ashraf. I'm currently pursuing a bachelor's degree in computer 
 
 # 🎓 University projects
  Machine Learning & Deep Learning
- - [YOLOv5 with Custome data](https://github.com/7MohamedAshraf10/YOLOv5-Train-Custom-Dataset)
- - [Hand Writing text recognition](https://github.com/7MohamedAshraf10/Handwritten-Text-Recognition)
  - [Segmentation_with_U_Net](https://github.com/7MohamedAshraf10/Segmentation_with_U_Net)
- - [Decision_Tree_From_Scratch](https://github.com/7MohamedAshraf10/Decision_Tree_From_Scratch)
- - [Facial_Expression_Recognation](https://github.com/7MohamedAshraf10/Facial_Expression_Recognation)
  - [VAE_Face_Generation](https://github.com/7MohamedAshraf10/VAE_Face_Generation)
- - [Object Localization](https://github.com/7MohamedAshraf10/Object_Localization_with_Tensorflow)
- - [Face_Detection](https://github.com/7MohamedAshraf10/Face_Detection)
  - [CIFAR10-CNN](https://github.com/7MohamedAshraf10/CIFAR10_CNN)
- - [Hand Tracking Volume Control (2022)](https://github.com/7MohamedAshraf10/HandTrackingProject)
- - [Hand Tracking Fingers Count (2022)](https://github.com/7MohamedAshraf10/HandTrackingProject) 
  - [Fashion-MNIST classifier (2022)](https://github.com/7MohamedAshraf10/Fashion_MNIST)
  
 
