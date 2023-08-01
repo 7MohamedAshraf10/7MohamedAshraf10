@@ -15,6 +15,7 @@ Hey, I'm Mohamed Ashraf. I'm currently pursuing a bachelor's degree in computer 
 
 
 # 🗝 Legacy projects
+- [Character-Level-LSTM-PyTorch](https://github.com/7MohamedAshraf10/Character-Level-LSTM-PyTorch/tree/master)
 - [Segmentation_with_U_Net](https://github.com/7MohamedAshraf10/Segmentation_with_U_Net)
 - [Decision_Tree_From_Scratch](https://github.com/7MohamedAshraf10/Decision_Tree_From_Scratch)
 - [InvertedIndex](https://github.com/7MohamedAshraf10/InvertedIndex)
