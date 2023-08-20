@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Mohamed Ashraf
 
-Hey, I'm Mohamed Ashraf. I'm currently pursuing a bachelor's degree in computer science at [Cairo University](https://cu.edu.eg/Home). A passionate student who wants to explore new grounds and ideas.
+Hey, I'm Mohamed Ashraf. I have a bachelor's degree in Artificial Intelligence at [Cairo University](https://cu.edu.eg/Home). A passionate Fresh graduate who wants to explore new grounds and ideas.
 
 # I’m currently interested/learning in
+- Python
+- Machine learning / Deep Learning
 - Tensorflow
 - Computer Vision
 - PyTorch
