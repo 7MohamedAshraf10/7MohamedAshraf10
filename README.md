@@ -17,6 +17,7 @@ Hey, I'm Mohamed Ashraf. I have a bachelor's degree in Artificial Intelligence a
 
 
 # 🗝 Legacy projects
+- [Daily Planner Python Program](https://github.com/7MohamedAshraf10/Daily_Planner/tree/master)
 - [Convert_text_to_Speech Python Project](https://github.com/7MohamedAshraf10/Convert_text_to_Speech/tree/master)
 - [Character-Level-LSTM-PyTorch](https://github.com/7MohamedAshraf10/Character-Level-LSTM-PyTorch/tree/master)
 - [Segmentation_with_U_Net](https://github.com/7MohamedAshraf10/Segmentation_with_U_Net)
