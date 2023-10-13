@@ -14,8 +14,7 @@ Hey, I'm Mohamed Ashraf. I have a bachelor's degree in Artificial Intelligence a
 
   
 ## 👨🏻‍💻 Projects I made
-
-
+- [LeetCode Problem Solving](https://github.com/7MohamedAshraf10/LeetCode)
 # 🗝 Legacy projects
 - [Daily Planner Python Program](https://github.com/7MohamedAshraf10/Daily_Planner/tree/master)
 - [Convert_text_to_Speech Python Project](https://github.com/7MohamedAshraf10/Convert_text_to_Speech/tree/master)
