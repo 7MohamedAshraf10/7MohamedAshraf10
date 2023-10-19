@@ -2,7 +2,7 @@
 
 Hey, I'm Mohamed Ashraf. I have a bachelor's degree in Artificial Intelligence at [Cairo University](https://cu.edu.eg/Home). A passionate Fresh graduate who wants to explore new grounds and ideas.
 
-# I’m currently interested/learning in
+# I’m currently learning/interested in
 - Python
 - Machine learning / Deep Learning
 - Tensorflow
