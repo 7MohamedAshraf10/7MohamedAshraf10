@@ -13,7 +13,7 @@ Hey, I'm Mohamed Ashraf. I have a bachelor's degree in Artificial Intelligence a
 - MySQL
 
   
-## 👨🏻‍💻 Projects I made
+## 👨🏻‍💻 Problem Solving
 - [LeetCode Problem Solving](https://github.com/7MohamedAshraf10/LeetCode)
 # 🗝 Legacy projects
 - [Daily Planner Python Program](https://github.com/7MohamedAshraf10/Daily_Planner/tree/master)
